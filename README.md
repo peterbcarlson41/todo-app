@@ -3,3 +3,5 @@ This is a simple Todo App that I built referencing https://www.youtube.com/watch
 Live at this link: https://todo-app-mu-henna.vercel.app/
 
 Built using json-server as the database. Database hosted with Render.
+
+Currently only has support for a singular Todo List (i.e. Everyone viewing the link is seeing and editing the same todo list)
